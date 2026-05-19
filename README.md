@@ -19,3 +19,6 @@ Designed using Logisim Evolution.
 
 ## Author
 V ADI SESHU
+
+##
+<img width="288" height="350" alt="main" src="https://github.com/user-attachments/assets/a60153cf-9926-48bf-95cd-0ae3c0fe66a4" />
